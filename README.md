@@ -91,7 +91,7 @@ See the rubric file below for goals, to maintain the RMSE below the tolerated.
 
 ## Unscented Kalman Filter Implementation Algorithm:
 Here is the output video of the Kalman filter
-![Kalman Video](https://raw.githubusercontent.com/eshnil2000/Udacity-CarND-Extended-Kalman-Filter-Project/master/images/kalman.gif)
+![Kalman Video](https://raw.githubusercontent.com/eshnil2000/CarND-Unscented-Kalman-Filter-Project/master/images/kalman.gif)
 
 
 ###################################################################################
