@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 ## Background
 Unscented Kalman Filter can be used to track moving objects from a Self Driving car using multiple sensors, in our case, LIDAR and RADAR measurements. It does not make linear approximation for the angular velocity like the Extended Kalman Filter, and is thus more accurate in predicting sharp vehicle turns.
 Several object motion models  can be used, in this case, we will use the constant turn rate and velocity magnitude model (CTRV). 
-![CTRV](https://raw.githubusercontent.com/eshnil2000/Udacity-CarND-Extended-Kalman-Filter-Project/master/images/ctrv.png)
+![CTRV](https://raw.githubusercontent.com/eshnil2000/CarND-Unscented-Kalman-Filter-Project/master/images/ctrv.png)
 
 ## Unscented Kalman Filter Intuition (From https://www.haidynmcleod.com/unscented-kalman-filter)
 
@@ -83,7 +83,7 @@ Intuition:
 
 
 ## Input Data File Description
-See https://github.com/eshnil2000/Udacity-CarND-Extended-Kalman-Filter-Project/blob/master/README.md Input Data File Description
+See https://github.com/eshnil2000/CarND-Unscented-Kalman-Filter-Project/blob/master/README.md Input Data File Description
 
 
 ## Goals
